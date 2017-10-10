@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SWJsonKit_Tests' do
+  pod 'SWJsonKit', :path => '../'
+  
+  
+end
