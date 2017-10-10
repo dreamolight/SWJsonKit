@@ -22,7 +22,7 @@ pod 'SWJsonKit'
 
 ## Author
 
-qinchao, stan.wu@me.com
+Stan Wu, stan.wu@me.com
 
 ## License
 
