@@ -1,0 +1,6 @@
+framework module SWJsonKit {
+  umbrella header "SWJsonKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

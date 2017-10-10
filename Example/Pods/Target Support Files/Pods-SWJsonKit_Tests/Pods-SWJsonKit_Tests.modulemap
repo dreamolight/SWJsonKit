@@ -1,0 +1,6 @@
+framework module Pods_SWJsonKit_Tests {
+  umbrella header "Pods-SWJsonKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
